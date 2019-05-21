@@ -3,7 +3,7 @@ NodeForge is a dynamic node editor built in python. The editor was initially des
 ## Dialog Trees
 The primary purpose of NodeForge is to supply an easy to use and dynamic node editor to game designers. NodeForge has several features just for dialog trees including; Exporting to a film script, a simple scripting language, and a customizable JSON exporter.
 ## Videogame AI Logic
-###Exporting to GDScript, C#, and C++ planned.
+Exporting to GDScript, C#, and C++ planned.
 ## Neural Networking
 I plan on adding TensorFlow support to NodeForge
 ## Other Use Cases
